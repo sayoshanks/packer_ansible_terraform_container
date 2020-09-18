@@ -1,1 +1,1 @@
-# packer_ansible_terraform_container
+# packer_ansible_terraform_rhel_container
